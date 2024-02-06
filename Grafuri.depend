@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707256435 source:d:\uni\md\laboratorul 1\grafuri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+
