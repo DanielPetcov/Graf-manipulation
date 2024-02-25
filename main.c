@@ -33,8 +33,8 @@ int main(){
 
     int digit;
     printf("Introdu una din optiuni:\n");
-    printf("1. Matrice de adiacenta.\n");
-    printf("2. Matrice de incidenta.\n");
+    printf("1. Matrice de incidenta.\n");
+    printf("2. Matrice de adiacenta.\n");
     printf("3. Lista de adiacenta.\n");
     printf("Enter: ");
     scanf("%d", &digit);
